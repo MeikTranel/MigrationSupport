@@ -1,16 +1,17 @@
 ---
 name: Help Request
-about: Request help migrating your project
+about: Request help with your project
 
 ---
 
 **Project:**
-Basic information about your project. This includes a project URL and a rough description of what it does.
+URL: Preferably a git project URL. SVN is also accepted.
+Synopsis: Concise description of project.
 
 **What am i looking for?**
 A description of what you want to happen. I don't require you to know what you want right away. "Make the development experience a little nicer" is a valid entry in my books.
 
-**Issues i have had doing it by myself: (OPTIONAL)**
+**What problems stopped me from doing this myself before? (OPTIONAL)**
 This can include past experiences, fears and/or roadblocks.
 
 **Special Requirements**
